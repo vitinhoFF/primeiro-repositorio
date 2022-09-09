@@ -5,7 +5,7 @@
  ...
  
  < html >
-  < h1 > Meu primeiro arquivo em HTML < H1 ?>
+  < h1 > Meu primeiro arquivo em HTML < h1 />
  </ html >
 
 ...
