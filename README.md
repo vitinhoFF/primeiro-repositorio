@@ -6,6 +6,8 @@
  
  < html >
   < h1 > Meu primeiro arquivo em HTML < H1 ?>
-  <?HTML >
+ <HTML >
 
 ...
+<
+10
